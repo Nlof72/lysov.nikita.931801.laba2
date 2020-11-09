@@ -1,0 +1,38 @@
+html,
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.ssylka {
+    color: yellow;
+    background-color: black;
+}
+
+div {
+    padding-left: 10px;
+}
+
+footer {
+    line-height: 30px;
+    margin-top: 35px;
+    background-color: black;
+    clear: left;
+    text-align: center;
+}
+
+#block1 {
+    background-color: #EAEAEA;
+    height: 70px;
+    overflow: hidden;
+}
+
+#block2 {
+    width: 200px;
+    background-color: #C8FC98;
+    float: left;
+}
+
+#block3 {
+    margin-left: 205px;
+}

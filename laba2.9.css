@@ -1,0 +1,10 @@
+#main{
+    background-color: blue;
+    color: white;
+    width: 600px;
+    text-align: left;
+}
+#hom{
+float: right;
+padding: 0 0 20px 20px;
+}

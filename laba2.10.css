@@ -1,0 +1,11 @@
+#verh{
+    height: 100px;
+    width: 200px;
+    background-color: aquamarine;
+    float: left;
+    margin: 15px 0 15px 15px;
+}
+#niz{
+    background-color: bisque;
+    clear: left;
+}

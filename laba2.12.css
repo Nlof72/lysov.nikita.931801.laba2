@@ -1,0 +1,29 @@
+#main {
+    background-color: aqua;
+    border-width: 2px;
+    border-style: solid;
+    border-color: green;
+}
+
+#spis {
+    background-color: bisque;
+    float: left;
+    width: 500px;
+}
+
+#text {
+    background-color: darkgray;
+    margin-left: 505px;
+    margin-right: 5px;
+}
+@media screen and (max-width: 900px)
+{
+    #spis{
+        width: 120px;
+    }
+    #text{
+        clear: left;
+        margin: 0;
+        width: 350px;
+    }
+}

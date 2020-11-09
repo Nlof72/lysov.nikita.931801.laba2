@@ -1,0 +1,47 @@
+html,
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.ssylka {
+    color: yellow;
+    background-color: black;
+}
+
+div {
+    padding-left: 10px;
+}
+
+footer {
+    margin-top: 20px;
+    background-color: black;
+    clear: right;
+    text-align: center;
+}
+
+#block1 {
+    background-color: #EAEAEA;
+    height: 80px;
+    overflow: hidden;
+}
+
+#block2 {
+    width: 25%;
+    background-color: #C8FC98;
+    float: left;
+}
+
+#block3 {
+    margin-left: 25%;
+    margin-right: 200px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+#block4 {
+    width: 200px;
+    margin-left: -100%;
+    float: right;
+    background-color: #FDE95E;
+}

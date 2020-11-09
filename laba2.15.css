@@ -1,0 +1,10 @@
+div{
+    background-color: aquamarine;
+    height: 100px;
+    width: 200px;
+    display: inline-block;
+    margin: 10px;
+}
+footer{
+    background-color: bisque;
+}

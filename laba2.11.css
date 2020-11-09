@@ -1,0 +1,14 @@
+#bord{
+    border-width: 2px;
+    border-style: solid;
+    border-color: green;
+}
+#main{
+    background-color: aqua;
+    height: 250px;
+
+}	
+#hom{
+    float: right;
+    height: 250px;
+}
